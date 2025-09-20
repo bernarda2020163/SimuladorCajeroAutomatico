@@ -12,6 +12,6 @@
 
 Requistos:
 
-*  Usar un bucloe while para mantener el menú activo hasta que el usuario elija salir.
+*  Usar un bucle while para mantener el menú activo hasta que el usuario elija salir.
 *  Usar conicionales if-else o switch para procesar la opción seleccionada.
 *  Validar que el saldo no sea negativo al retirar.
