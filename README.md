@@ -1,4 +1,4 @@
-# PROYECTO TAREA 2 : SIMULADOR CAJERO AUTOMATICO
+## PROYECTO TAREA 2 : SIMULADOR CAJERO AUTOMATICO
 
 * Desarrollado por __Bernarda Rodríguez__
 * Desarrollado en Java
