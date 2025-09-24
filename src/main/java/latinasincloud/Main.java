@@ -58,7 +58,7 @@ public class Main {
         }
 
         if (intentosFallidos == MAX_INTENTOS) {
-            System.out.println("Ha excedido el número de intentos. Su tarjeta ha sido bloqueada. 🔒");
+            System.out.println("Ha excedido el número de intentos. Su tarjeta ha sido bloqueada.");
             scanner.close();
             return; // Termina la ejecución del programa
         }
