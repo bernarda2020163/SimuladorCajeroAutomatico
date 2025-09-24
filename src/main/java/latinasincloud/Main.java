@@ -11,7 +11,8 @@ public class Main {
 
     System.out.println("\n Bienvenido! este es un Simulador de Cajero Automático \n");
 
-// SIMULADOR DE CAJERO AUTOMATICO //
+
+    // SIMULADOR DE CAJERO AUTOMATICO //
 /* CREAR UN PR0GRAMA QUE SIMULE UN CAJERO AUTOMATICO CON LAS SIGUIENTES FUNCIONES:
 
 1) CONSULTA SALDO
